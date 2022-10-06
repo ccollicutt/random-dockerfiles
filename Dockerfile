@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN echo "hi" /root/hi.txt
+RUN echo "hi" > /root/hi.txt
